@@ -1,6 +1,6 @@
 # Olá, sou o LxDEV77 👋
 
-Bem-vindo ao meu perfil GitHub! Sou estudante de Ciência da Computação e estou sempre aprendendo e explorando novas tecnologias. Aqui você pode encontrar alguns dos meus projetos e contribuições.
+Bem-vindo ao meu perfil GitHub! Sou estudante de Ciência da Computação e estou começando do zero, mas com grande potencial para crescer e me tornar um excelente desenvolvedor. Estou sempre aprendendo e explorando novas tecnologias. Aqui você pode encontrar alguns dos meus projetos e contribuições enquanto trilho minha jornada na programação.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,10 +29,13 @@ Bem-vindo ao meu perfil GitHub! Sou estudante de Ciência da Computação e esto
 ## 📚 Atualmente estou estudando:
 - Desenvolvimento Web Full-Stack Python
 - Arquitetura de Software
-- Engenharia de software
+- Engenharia de Software
 
+## 💡 Meu Potencial:
+Estou começando minha jornada como desenvolvedor, mas tenho um grande potencial para aprender e evoluir rapidamente. Estou buscando desafios e oportunidades para aprimorar minhas habilidades e contribuir com projetos reais.
 
 ## 📫 Como me encontrar:
 - Email: zlxagencia@gmail.com
-- LinkedIn: https://www.linkedin.com/in/luislopes7/
+- LinkedIn: [Luis Lopes](https://www.linkedin.com/in/luislopes7/)
+
 Vamos codar! 🚀
