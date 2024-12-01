@@ -3,7 +3,6 @@
 Bem-vindo ao meu perfil GitHub! Sou estudante de Ciência da Computação e estou começando do zero, mas com grande potencial para crescer e me tornar um excelente desenvolvedor. Estou sempre aprendendo e explorando novas tecnologias. Aqui você pode encontrar alguns dos meus projetos e contribuições enquanto trilho minha jornada na programação.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
