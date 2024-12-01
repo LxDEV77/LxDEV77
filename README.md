@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, sou o LxDEV77 👋
 
-<!--
-**LxDEV77/LxDEV77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil GitHub! Sou estudante de Ciência da Computação e estou sempre aprendendo e explorando novas tecnologias. Aqui você pode encontrar alguns dos meus projetos e contribuições.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que uso:
+- **HTML** & **CSS** - Construção de páginas web com design responsivo e acessível.
+- **Python** - Desenvolvimento de scripts e automações, além de projetos em ciência de dados e aprendizado de máquina.
+- **C#** - Criação de aplicações desktop, jogos e back-end.
+- **Git** - Controle de versão e colaboração em projetos.
+- **MySQL** - Gerenciamento de bancos de dados relacionais, consultas e otimizações.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Atualmente estou estudando:
+- Desenvolvimento Web Full-Stack
+- Arquitetura de Software
+- Inteligência Artificial
+
+## 💻 Projetos recentes:
+- [**Projeto 1**](link-do-repositorio) - Descrição do projeto.
+- [**Projeto 2**](link-do-repositorio) - Descrição do projeto.
+- [**Projeto 3**](link-do-repositorio) - Descrição do projeto.
+
+## 📫 Como me encontrar:
+- Email: seu-email@example.com
+- LinkedIn: [seu-linkedin](link-do-linkedin)
+- Twitter: [@seutwitter](link-do-twitter)
+
+Vamos codar! 🚀
