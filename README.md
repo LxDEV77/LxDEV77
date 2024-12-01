@@ -20,11 +20,15 @@ Bem-vindo ao meu perfil GitHub! Sou estudante de Ciência da Computação e esto
 </div>
 
 ## 🚀 Tecnologias que uso:
+
 - **HTML** & **CSS** - Construção de páginas web com design responsivo e acessível.
 - **Python** - Desenvolvimento de scripts e automações, além de projetos em ciência de dados e aprendizado de máquina.
 - **C#** - Criação de aplicações desktop, jogos e back-end.
 - **Git** - Controle de versão e colaboração em projetos.
 - **MySQL** - Gerenciamento de bancos de dados relacionais, consultas e otimizações.
+
+> **Observação**: Tenho conhecimento básico nessas tecnologias, mas estou altamente motivado para aprender, melhorar e me tornar proficiente em todas elas.
+
 
 ## 📚 Atualmente estou estudando:
 - Desenvolvimento Web Full-Stack Python
