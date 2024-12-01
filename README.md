@@ -10,18 +10,12 @@ Bem-vindo ao meu perfil GitHub! Sou estudante de Ciência da Computação e esto
 - **MySQL** - Gerenciamento de bancos de dados relacionais, consultas e otimizações.
 
 ## 📚 Atualmente estou estudando:
-- Desenvolvimento Web Full-Stack
+- Desenvolvimento Web Full-Stack Python
 - Arquitetura de Software
-- Inteligência Artificial
+- Engenharia de software
 
-## 💻 Projetos recentes:
-- [**Projeto 1**](link-do-repositorio) - Descrição do projeto.
-- [**Projeto 2**](link-do-repositorio) - Descrição do projeto.
-- [**Projeto 3**](link-do-repositorio) - Descrição do projeto.
 
 ## 📫 Como me encontrar:
-- Email: seu-email@example.com
-- LinkedIn: [seu-linkedin](link-do-linkedin)
-- Twitter: [@seutwitter](link-do-twitter)
-
+- Email: zlxagencia@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/luislopes7/)
 Vamos codar! 🚀
