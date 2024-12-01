@@ -34,5 +34,5 @@ Bem-vindo ao meu perfil GitHub! Sou estudante de Ciência da Computação e esto
 
 ## 📫 Como me encontrar:
 - Email: zlxagencia@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/luislopes7/)
+- LinkedIn: https://www.linkedin.com/in/luislopes7/
 Vamos codar! 🚀
